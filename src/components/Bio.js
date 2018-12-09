@@ -16,9 +16,9 @@ class Bio extends React.Component {
         }}
       >
         <p style={{ maxWidth: 500 }}>
-        Yo! I am <a href="https://mobile.twitter.com/xtrycatchblockx">Paul Sydney Orozco</a>, a Software Engineer.
+        Yo! I am <a href="https://mobile.twitter.com/xtrycatchblockx">Paul Sydney Orozco</a>, a dad, husband, employee, forever newbie and a Software Engineer.
           {' '}
-          This is the ugliest tech/programming blog ever created. Im using this to log my personal learnings, attempts, experiments with various technologies that fascinates me.
+        These are my (ugly) code musings, random rants and some experiments. .
         </p>
       </div>
     )

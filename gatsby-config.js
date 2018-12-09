@@ -3,7 +3,7 @@ module.exports = {
     title: 'Not.Expert',
     author: 'Paul Sydney Orozco',
     description:
-      'Not.Expert is the ugliest tech/programming blog ever created. Im using this to log my personal learnings, attempts, experiments with various technologies that fascinates me.',
+      'Im using this to log my personal learnings, attempts, experiments with various technologies that fascinates me.',
     siteUrl: 'https://not.expert',
     social: {
       twitter: '@xtrycatchblockx',

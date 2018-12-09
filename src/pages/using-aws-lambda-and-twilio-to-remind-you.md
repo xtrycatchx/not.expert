@@ -1,6 +1,6 @@
 ---
 title: Using AWS Lambda and Twilio to remind you
-date: '2017-08-12'
+date: '2017-12-08'
 spoiler: Using serverless to help remind myself not to forget paying my housing loan by sending SMS to my phone every 16th of the month. The scheduler is a function deployed in AWS Lambda.
 ---
 
