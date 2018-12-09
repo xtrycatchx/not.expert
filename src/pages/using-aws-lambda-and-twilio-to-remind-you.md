@@ -4,7 +4,7 @@ date: '2017-08-12'
 spoiler: Using serverless to help remind myself not to forget paying my housing loan by sending SMS to my phone every 16th of the month. The scheduler is a function deployed in AWS Lambda.
 ---
 
-Being a forgetful person, I need to constantly remind myself especially on adult stuffs like "paying my monthly Pag-Ibig loan".By the way, PAG-IBIG or HDMF is a Philippine government-owned corporation that provides us Filipinos with housing loans.
+Being a forgetful person, I need to constantly remind myself especially on adult stuffs like "paying my monthly Pag-Ibig loan". By the way, PAG-IBIG or HDMF is a Philippine government-owned corporation that provides us Filipinos with housing loans.
 
 **So yes, I need to remind myself via calendar alarms, email calender scheds so I wont forget my due. On top of these reminding-tools,I'll add another way to remind myself - by sending SMS to my phone.**
 
