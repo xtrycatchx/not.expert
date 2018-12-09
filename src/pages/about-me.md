@@ -4,7 +4,7 @@ date: '2017-12-01'
 spoiler: dad, husband, employee, forever newbie, a Software Engineer.
 ---
 
-Not.Expert is the ugliest tech/programming blog ever created. 
+Not.Expert is the ugliest tech/programming blog ever created. Hahaha!
 
 Im using this to log my personal learnings, attempts, experiments with various technologies that fascinates me.
 
