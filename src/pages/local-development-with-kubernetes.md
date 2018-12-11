@@ -4,7 +4,7 @@ date: '2018-07-31'
 spoiler: My approach in running apps locally in a Kubernetes environment in as easy as possible way, for my local development purposes.
 ---
 
-This post will covers my approach in running applications locally in a Kubernetes environment in as easy as possible way, for my development purposes. I tried to evade the bloody kubernetes setup as much as I can. Also, I will cover my strategy in allowing Kubernetes to fetch my apps without the need of pushing it to public repos like Docker Hub.
+This is my approach in running applications locally in a Kubernetes environment in as easy as possible way, for my development purposes. I tried to evade the bloody kubernetes setup as much as I can. Also, I will cover my strategy in allowing Kubernetes to pull my apps without the need of pushing it to public repos like Docker Hub.
 
 ---
 **Setting up Kubernetes**
