@@ -1,7 +1,7 @@
 ---
 title: I went on a social media hiatus last year (2019)
 date: '2020-01-14'
-spoiler: It's been a year since my last post. There where lots of things going on last year, new opportunities, some challenges and a few setbacks, so i partially decided on a semi social media hiatus. I paused (correction, i stopped) replying on direct messages and group chats from social medi and emails. I still post to Facebook and Twitter, but were very minimal. Seems like detocing myself from social media helps.
+spoiler: It's been a year since my last post. There were lots of things going on last year, new opportunities, some challenges and a few setbacks, so I partially decided on a semi social media hiatus. I paused (correction, i stopped) replying to direct messages and group chats from social media and emails. I still post to Facebook and Twitter, but were very minimal. It seems like detoxing myself from social media helps.
 ---
 
 It's been a year since my last post. There were lots of things going on last year, new opportunities, some challenges, and a few setbacks, so I partially decided on a semi-social media hiatus. I paused (correction, I stopped) replying to direct messages and group chats from social media and emails. I still post to Facebook and Twitter, but were very minimal. It seems like detoxing myself from social media helps.
