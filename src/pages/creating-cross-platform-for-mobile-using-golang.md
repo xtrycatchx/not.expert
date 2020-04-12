@@ -8,7 +8,7 @@ A disclaimer for this this article is that I am a noob to Golang, and so if you 
 
 In this tutorial, we will try to create a minimal hello world is a dynamic library using golang and have it wrapped into libraries ready to be used for IOS or Android app.
 
-Shallow Theories
+## Shallow Theories
 
 `Golang` (or `Go`) originates from Google. It's an open source, statically typed programming language that makes it easy to build simple, reliable, and efficient software.
 
