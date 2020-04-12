@@ -102,13 +102,7 @@ Thats it. I hope you guys learn something from this post.
 
 A uploaded a short video describing the steps for this tutorial here:
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=dXgNhAG0oyY
-" target="_blank"><img src="https://img.youtube.com/vi/dXgNhAG0oyY/0.jpg" 
-alt="Creating cross-platform library for mobile using Golang" width="240" height="180" border="0" /></a>
-
-
-
-
+[![Creating cross-platform library for mobile using Golang](https://img.youtube.com/vi/dXgNhAG0oyY/0.jpg)](https://www.youtube.com/watch?v=dXgNhAG0oyY)
 
 
 
