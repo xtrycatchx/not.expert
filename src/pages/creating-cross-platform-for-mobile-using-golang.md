@@ -55,7 +55,7 @@ $ export PATH=$PATH:$GOPATH/bin
 Lets create the go project structure for our sample app. Let's `src` directory which contains our Go package `not.expert` and finally our package `helloworld`
 
 ```sh
-$ mkdir $GOPATH/src
+$ mkdir -p $GOPATH/src
 $ mkdir -p $GOPATH/src/not.expert
 $ mkdir -p $GOPATH/src/not.expert/helloworld
 
