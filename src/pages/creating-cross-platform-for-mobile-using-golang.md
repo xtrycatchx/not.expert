@@ -100,17 +100,6 @@ Thats it. I hope you guys learn something from this post.
 
 ## Short Video
 
-A uploaded a short video describing the steps for this tutorial here:
+I uploaded a short video describing the steps for this tutorial here:
 
 [![Creating cross-platform library for mobile using Golang](https://img.youtube.com/vi/dXgNhAG0oyY/0.jpg)](https://www.youtube.com/watch?v=dXgNhAG0oyY)
-
-
-
-
-
-
-
-
-
-
-
