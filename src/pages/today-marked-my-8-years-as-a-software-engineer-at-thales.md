@@ -1,10 +1,10 @@
 ---
 title: Today marked my 8 years as a Software Engineer at Thales
 date: '2020-08-27'
-spoiler: Time flies when you have fun. It's still very fresh to me when my former boss interviewed me and it was one of the longest interviews I had. He gave me a huge opportunity, gave me a chance to flex my skills in the company and up to now I'm very much thankful to him. And up to now, he is one of the best leaders that I looked up to.
+spoiler: Time flies when you are having fun. It's still very fresh to me when my former boss interviewed me and it was one of the longest interviews I had. He gave me a huge opportunity, gave me a chance to flex my skills in the company and up to now I'm very much thankful to him. And up to now, he is one of the best leaders that I looked up to.
 ---
 
-Today marks my 8th anniversary as a Software Engineer at Thales! Time flies when you have fun. It's still very fresh to me when my former boss interviewed me and it was one of the longest interviews I had. He gave me a huge opportunity, gave me a chance to flex my skills in the company and up to now I'm very much thankful to him. And up to now, he is one of the best leaders that I looked up to. He was the very first person in the company the placed his trust in me. 
+Today marks my 8th anniversary as a Software Engineer at Thales! Time flies when you are having fun. It's still very fresh to me when my former boss interviewed me and it was one of the longest interviews I had. He gave me a huge opportunity, gave me a chance to flex my skills in the company and up to now I'm very much thankful to him. And up to now, he is one of the best leaders that I looked up to. He was the very first person in the company the placed his trust in me. 
 
 I consider myself lucky that I am in a team that does mostly proof-of-concepts and/or pilot projects for internal and external customers. It is exciting in a way, that for specific projects you'll have a chance to work on the client-side (web and mobile and even low-level part of the mobile) or the server-side or both. It hones your full-stack skills ( or "full-curve" if there's such a terminology hahaha?). And this stretches to the ops part as well. 
 
