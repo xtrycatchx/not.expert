@@ -13,10 +13,14 @@ Most of the time, I was assigned to greenfield projects wherein we have the adva
 There are also times that projects don't need to be built from the group up. It only requires adding features to an existing app or service which is sometimes easy and can be done quickly, but sometimes the learning curve of the existing code base is quite high and making changes could be quite overwhelming at first, but I’ve had a ton of help along the way, so overall it was awesome.
 
 Last year was so remarkable for me because we won the company's hackathon in Singapore. And then later on at the end of the year, we flew to France to demo and pitch our winning project across big bosses and stakeholders. The demo gods and the pitch gods most likely had looked down on us during that day because we were so lucky that we were selected as one of the winners for the global contest called Business Innovation and Growth.  
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6608349631401259008" height="978" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6608349631401259008" height="978" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+<small><i>Those two guys above who can't afford a suit and were on sneakers was us (me on the pink shirt with my teammate Alsa). Scary and fun times remembering the pitch and answering the panels.</i></small>
+<br/>
+<br/>
 To be honest, with my 8 years within the company, it is not always fun times. There were lots of those stressful days and weeks as well. There were lots of times that I got stuck in something (could be bugs/issues or understanding new technologies/language/frameworks/toolings) but even if my boss doesn't say anything about it, I would still feel a little guilt thinking if I'm still contributing to the team or dragging them. I've been challenged in ways that I could never have imagined hahaha. But in the end, I gain experiences and it kinda rounded up my knowledge in both technical and non-technical aspects of those projects and assignments. It helped me grow in ways I never could have hoped.
-
+<br/>
+<br/>
 So whats next? Well, as of today, I will continue to be at least a multiplier to the team (and towards the company as a whole). Maybe continue to grow and hone my skills for whatever opportunities that may come along the way.  
-
+<br/>
+<br/>
 Heres to more years to me (I hope)!
