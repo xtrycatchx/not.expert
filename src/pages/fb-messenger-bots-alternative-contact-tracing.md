@@ -49,7 +49,7 @@ Overall, I think it is still best to stay at home for everybody's safety if kaya
 <br/>
 Stay safe mga kaigsuonans/kababayans/everyone! Amping kanunay!
 
-## See Proof-of-Concept here
+## Proof-of-Concept video
 See sample super rough crappy demo video below for the bot I played around over the weekend. 
 If you need help, ping me - I can help you set it up (only after office hours or best on weekends, coz I still have a day job). Of course, you need to pay me - but the good news is, it's you who will decide on the “how much” part. But I believe anyone who has a tech team here can do it, the idea is straightforward - feel free to implement it.
 
