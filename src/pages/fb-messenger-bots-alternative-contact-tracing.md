@@ -14,7 +14,10 @@ Despite those efforts spent on building, testing, and shipping these apps, the s
 So to rule out possible reasons of people, business owners often resolved to the approach of having the manual “lapis at papel”. Sad. It somehow solves the lack of mobile data problem, however, proposes a greater risk — the viral transmission from using the same pen one after the other. Of course, this can be addressed by using multiple pens, dipped into disinfectants like alcohol, or expose to UV light, etc. However, encoding those manual data later into its digital form is not only expensive but time-consuming. Not to mention, that the virus might have spread vastly and yet consolidating those data is still ongoing. Also, it is difficult to reach out or to broadcast updates to those who filled out those forms manually in the event of close contact/having had potential exposure.
 
 ## The proposal
+How to make entry recording and tracing easier for a common Filipino? How to help those who don't have mobile data subscription? How to assist those who don't like to install multiple tracing apps?
+
 Knowing these, I am proposing something that maybe can address these problems. My proposal would not replace those very good ones, but I am trying to suggest an alternative which in my opinion would be better than the current manual bolpen at papel” approach. Just trying to complement what's missing.
+
 So most of us have Facebook messenger, yes? Let's take advantage of this fact. I propose to piggyback on Facebook’s messenger API.
 Yes, you guess it right! It is bots and mini-apps.
 Assuming these facts:
