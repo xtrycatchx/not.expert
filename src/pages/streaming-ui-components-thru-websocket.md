@@ -1,13 +1,13 @@
 ---
 title: Streaming UI Components thru Websockets
 date: '2021-04-10'
-spoiler: A short weekend experiment on using websocket to stream html and javascript components to client side.Not perfect, and theres lots of issues specially on the part when it surgically appends inline scripts to the DOM the moment the client receives js functions thru websocket. Just for exploration and maybe could inspire you/me to do something similar
+spoiler: A short weekend experiment on using websocket to stream Javascript and HTML components towards client side. Not perfect, and there's lots of issues specially on the part when the client surgically appends inline scripts to the DOM the moment it receives JS Functions thru websocket. Just for exploration and maybe could inspire you/me to do something similar.
 ---
 
 This is just an experiment and theres lots of issues specially on the part when it surgically appends inline scripts to the DOM the moment the client receives js functions thru websocket.
 
 ## The Websocket API
-From MDN "The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply." https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+From MDN: `The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.` https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 
 The goal of this experiment is to try to dynamically render HTML components without the need to do a full http roundtrip to server. We just want to check an alternative to Server-side rendering (SSR), that way we dont need to do a full render of a page from server to client.
 
@@ -15,7 +15,7 @@ With websockets, since the session is already open and established between the c
 
 ## The Client
 We need a placeholder for the JS functions and DOM elements that we want to push thru sockets. Its a simple HTML that have a script to establish a connection to our Websocket server and a listener to receive messages from server. The contents of `index.html` is something like this
-```xml
+```html
 <!DOCTYPE html>
 <body>
   <script>
@@ -86,6 +86,8 @@ const component = {
   wsClient.send(JSON.stringify(component));
 ```
 Of course you need to check first if pipe is open via `client.readyState`, but to simplify we will ignore it.
+
+So try to run the app (`node app.js`) and then navigate to `http://localhost:300` and you will see the button rendered from server thru websockets with its onclicked event triggering a JS function which is also piped from the server.
 
 ## Full code
 The node project
