@@ -1,7 +1,7 @@
 ---
 title: About me
 date: '2017-12-01'
-spoiler: dad, husband, employee, forever newbie, a Software Engineer.
+spoiler: dad, husband, employee, forever newbie, a Software Engineer. If you wish to donate ₿itcoin for my family [3KM3ArLmdFCvGvyp77DbBcvBgNrw58LoFM](https://www.blockchain.com/btc/address/3KM3ArLmdFCvGvyp77DbBcvBgNrw58LoFM) 
 ---
 
 Not.Expert is the ugliest tech/programming blog ever created. Hahaha!
